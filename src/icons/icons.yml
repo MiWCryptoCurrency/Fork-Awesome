@@ -7213,3 +7213,10 @@ icons:
       - Payment Icons
       - Currency Icons
       - Brand Icons
+  - name:       OpenStreetMap
+    id:         osm
+    unicode:    f321
+    created:    1.1
+    categories:
+      - Web Application Icons
+      - Brand Icons
